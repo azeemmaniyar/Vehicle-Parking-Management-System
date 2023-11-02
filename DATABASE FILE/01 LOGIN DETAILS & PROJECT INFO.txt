@@ -1,0 +1,15 @@
+**Database Name: vehicle-parking-db**
+
+**Developed by Students of BCA**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Login Details**
+
+Username: admin@gmail.com
+Password: Password@123
+
+
+
+
