@@ -3,7 +3,7 @@ Here's a README file you can use for your "Vehicle Parking Management System" pr
 ---
 
 # Vehicle Parking Management System
-
+Developed by Mohammad Azeem Maniyar
 This is a web-based application developed for managing vehicle parking. It allows users to register vehicles, assign parking spots, and manage entry and exit times.
 
 ## Requirements
